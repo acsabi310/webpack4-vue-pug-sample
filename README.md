@@ -2,4 +2,4 @@
 
 ### Start: 
  - **npm i**
- - **npm dev** vagy  **npm prod**
+ - **npm run dev** vagy  **npm run prod**
